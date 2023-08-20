@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "core7-kafka.sln"
+}

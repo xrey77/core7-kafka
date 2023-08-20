@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0SJTcrr9j4E+NaDk9b1TMXSkevl3JiOo0XFUVuYp/Qo=",
+  "Source": "core7-kafka",
+  "BasePath": "_content/core7-kafka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
